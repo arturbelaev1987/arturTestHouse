@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-public class Lek2JAVAbac {
+public class Lek2JAVAbasics {
 
     @Test
     public void Lek2JAVAbac() {
